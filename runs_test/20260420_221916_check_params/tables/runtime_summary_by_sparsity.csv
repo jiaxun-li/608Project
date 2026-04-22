@@ -1,0 +1,4 @@
+observation_strategy,method,sparsity,runtime_seconds_mean,runtime_seconds_std,n_runs
+uniform,block_gibbs,0.5,0.005110958009026945,0.0,1
+uniform,rw_mh,0.5,0.00031395902624353766,0.0,1
+uniform,single_site_gibbs,0.5,0.0006885839975439012,0.0,1

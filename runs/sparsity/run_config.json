@@ -1,0 +1,35 @@
+{
+  "run_directory": "/Users/jasonli/Downloads/608Project/608Project/runs/20260420_223259_dim40_dep4_sp0p4-0p75_corr1p0_obsdeep-uniform-shallow_rep10",
+  "dimensions": [
+    40
+  ],
+  "depths": [
+    4
+  ],
+  "sparsities": [
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75
+  ],
+  "correlations": [
+    1.0
+  ],
+  "observation_strategies": [
+    "deep",
+    "uniform",
+    "shallow"
+  ],
+  "observed_fraction": 0.25,
+  "repetitions": 10,
+  "n_samples": 1000,
+  "burn_in": 500,
+  "thinning": 2,
+  "rw_mh_proposal_scale": 0.6,
+  "random_state": 0,
+  "created_at": "2026-04-20T22:32:59"
+}

@@ -1,0 +1,4 @@
+observation_strategy,method,correlation,mean_rmse_mean,mean_rmse_std,n_runs
+uniform,block_gibbs,0.4,0.11062428463004828,0.0,1
+uniform,rw_mh,0.4,0.6415297384561791,0.0,1
+uniform,single_site_gibbs,0.4,0.15570871527395655,0.0,1

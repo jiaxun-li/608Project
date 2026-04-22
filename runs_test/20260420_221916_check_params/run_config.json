@@ -1,0 +1,26 @@
+{
+  "run_directory": "/Users/jasonli/Downloads/608Project/608Project/runs_test/20260420_221916_check_params",
+  "dimensions": [
+    8
+  ],
+  "depths": [
+    2
+  ],
+  "sparsities": [
+    0.5
+  ],
+  "correlations": [
+    0.4
+  ],
+  "observation_strategies": [
+    "uniform"
+  ],
+  "observed_fraction": 0.25,
+  "repetitions": 1,
+  "n_samples": 40,
+  "burn_in": 20,
+  "thinning": 1,
+  "rw_mh_proposal_scale": 0.6,
+  "random_state": 0,
+  "created_at": "2026-04-20T22:19:16"
+}

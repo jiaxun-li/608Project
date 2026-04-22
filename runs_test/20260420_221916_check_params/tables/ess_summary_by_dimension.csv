@@ -1,0 +1,4 @@
+observation_strategy,method,dimension,ess_mean_mean,ess_mean_std,n_runs
+uniform,block_gibbs,8,39.23467647935015,0.0,1
+uniform,rw_mh,8,7.245871656903804,0.0,1
+uniform,single_site_gibbs,8,38.96018887824857,0.0,1

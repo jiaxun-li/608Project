@@ -1,0 +1,4 @@
+observation_strategy,method,sparsity,covariance_frobenius_error_mean,covariance_frobenius_error_std,n_runs
+uniform,block_gibbs,0.5,1.2275993557015494,0.0,1
+uniform,rw_mh,0.5,2.1781248097309507,0.0,1
+uniform,single_site_gibbs,0.5,1.186941321634034,0.0,1

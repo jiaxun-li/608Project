@@ -1,0 +1,13 @@
+python3 run_layered.py \
+  --dimensions 8 \
+  --depths 2 \
+  --sparsities 0.5 \
+  --correlations 0.4 \
+  --observation-strategies uniform \
+  --observed-fraction 0.25 \
+  --repetitions 1 \
+  --n-samples 40 \
+  --burn-in 20 \
+  --thinning 1 \
+  --rw-mh-proposal-scale 0.6 \
+  --random-state 0

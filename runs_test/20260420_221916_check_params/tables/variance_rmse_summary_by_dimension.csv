@@ -1,0 +1,4 @@
+observation_strategy,method,dimension,variance_rmse_mean,variance_rmse_std,n_runs
+uniform,block_gibbs,8,0.3366736005788346,0.0,1
+uniform,rw_mh,8,0.7543201823929943,0.0,1
+uniform,single_site_gibbs,8,0.2864423490071468,0.0,1
